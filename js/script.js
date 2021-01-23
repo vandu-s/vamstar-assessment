@@ -9,7 +9,7 @@ const publicationDate=document.querySelector("div.views-field.views-field-nothin
 
 console.log(publicationDate.innerText);
 
-/*code for printing Bidding Heading Date heading */
+/*code for printing Bidding  heading */
 
 const biddingDateHeading =document.querySelector("div.views-field.views-field-nothing > span > span:nth-child(19) > span > font > font");
 
@@ -20,7 +20,7 @@ const biddingDate=document.querySelector("div.views-field.views-field-nothing > 
 
 console.log(biddingDate.innerText);
 
-/*code for printing object  heading */
+/*code for printing object heading */
 
 const objectHeading =document.querySelector("div.views-field.views-field-nothing > span > span:nth-child(4) > span > font > font");
 
